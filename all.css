@@ -2,6 +2,7 @@ body {
 background-color: #ffcc99;
 text-align: center;
   line-height: 150%;
+  text-decoration: none;
   }
 #io{
   text-decoration: underline;
