@@ -2,7 +2,10 @@ body {
 background-color: #ffcc99;
 text-align: center;
   line-height: 150%;
-  text-decoration: none;
+  a:link { color: #cc66cc; }
+a:visited { color: #cc66cc; }
+a:hover { color: #cc66cc; }
+a:active { color: #cc66cc; }
   }
 #io{
   text-decoration: underline;
