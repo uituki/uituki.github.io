@@ -3,9 +3,9 @@ background-color: #ffcc99;
 text-align: center;
   line-height: 150%;
   }
-p.exc {
+#exc {
 color: #ff6633;
 }
-p.kome {
+#kome {
 text-decoration: underline;
 }
