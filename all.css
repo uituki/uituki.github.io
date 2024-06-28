@@ -5,6 +5,8 @@ text-align: center;
   }
 #atn {
 color: #ff6633;
+  p {
+font-size: 150%;
 }
 #kome {
 text-decoration: underline;
